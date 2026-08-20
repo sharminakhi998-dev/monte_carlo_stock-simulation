@@ -24,7 +24,7 @@ TRADING_DAYS = 252
 NUM_SIMULATIONS = 100
 ```
 
-## Next improvements
+## Improvements
 
 - Use real stock data with `yfinance`
 - Estimate volatility from historical prices
