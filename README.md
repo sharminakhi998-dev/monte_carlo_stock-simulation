@@ -9,12 +9,6 @@ A simple Python project that simulates possible future stock price paths using *
 - Visualizes how uncertainty affects future prices
 - Creates an animated chart and exports it as an MP4
 
-## Tools
-
-- Python
-- NumPy
-- Matplotlib
-- Google Colab
 
 ## Key idea
 
